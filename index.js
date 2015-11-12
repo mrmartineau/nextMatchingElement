@@ -9,7 +9,7 @@ function nextMatchingElement(el, target, callback) {
 		}
 
 	} else {
-		return nextInDOM(nextEl, target, callback);
+		return nextMatchingElement(nextEl, target, callback);
 	}
 }
 
