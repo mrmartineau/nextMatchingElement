@@ -5,12 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrmartineau/nextMatchingElement.git"
+    "url": "https://github.com/mrmartineau/nextMatchingElement.git"
   },
   "keywords": [
     "browserify",
     "commonjs",
-    "webpack"
+    "webpack",
+    "dom",
+    "sibling"
   ],
   "author": "Zander Martineau",
   "license": "MIT",
