@@ -2,7 +2,7 @@
 ## Find the next matching sibling element in the DOM
 
 [![npm version](https://badge.fury.io/js/nextmatchingelement.svg)](http://badge.fury.io/js/nextmatchingelement) <br>
-[![NPM](https://nodei.co/npm/trak.js.png?downloads=true)](https://nodei.co/npm/nextmatchingelement/)
+[![NPM](https://nodei.co/npm/nextmatchingelement.png?downloads=true)](https://nodei.co/npm/nextmatchingelement/)
 
 ### NPM
 `npm install nextmatchingelement --save`
