@@ -1,0 +1,21 @@
+{
+  "name": "nextmatchingelement",
+  "version": "1.0.0",
+  "description": "Find the next matching sibling element in the DOM",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmartineau/nextMatchingElement.git"
+  },
+  "keywords": [
+    "browserify",
+    "commonjs",
+    "webpack"
+  ],
+  "author": "Zander Martineau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmartineau/nextMatchingElement/issues"
+  },
+  "homepage": "https://github.com/mrmartineau/nextMatchingElement#readme"
+}
