@@ -1,6 +1,6 @@
 {
   "name": "nextmatchingelement",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find the next matching sibling element in the DOM",
   "main": "index.js",
   "repository": {
